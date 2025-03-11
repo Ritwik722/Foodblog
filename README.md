@@ -1,2 +1,2 @@
 # Foodblog
-Foodblog webpage using HTML,CSS,JS
+Foodblog webpage using basic  HTML,CSS
